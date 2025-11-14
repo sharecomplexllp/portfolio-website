@@ -1,4 +1,4 @@
-import React from 'react'
+//import React from 'react'
 import { TrendingUpIcon, ShieldIcon, RocketIcon } from 'lucide-react'
 const philosophyPoints = [
   {
